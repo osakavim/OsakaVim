@@ -9,4 +9,5 @@ Vimに関する何かをやる会。
 * https://github.com/osakavim/OsakaVim/wiki
 
 Hashタグ : [#osakavim](https://twitter.com/hashtag/osakavim "#osakavim")
+
 Slackin: https://osaka-vim-slackin.herokuapp.com/
