@@ -10,4 +10,5 @@ Vimに関する何かをやる会。
 
 Hashタグ : [#osakavim](https://twitter.com/hashtag/osakavim "#osakavim")
 
-Slackin: https://osaka-vim-slackin.herokuapp.com/
+~~Slackin: https://osaka-vim-slackin.herokuapp.com/~~
+Slackは[vim-jp](https://goo.gl/forms/evqcAReREnD8I1tn1)に移行しました。
